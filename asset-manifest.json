@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.4e906039.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.27c1cbb4.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.27c1cbb4.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.6f440d9c.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.6f440d9c.js.map",
+    "static/js/2.9fb08241.chunk.js": "/portfolio-react/static/js/2.9fb08241.chunk.js",
+    "static/js/2.9fb08241.chunk.js.map": "/portfolio-react/static/js/2.9fb08241.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "precache-manifest.f2e7c7fb0652c0a22028e88d2c1cbc1b.js": "/portfolio-react/precache-manifest.f2e7c7fb0652c0a22028e88d2c1cbc1b.js",
+    "service-worker.js": "/portfolio-react/service-worker.js",
+    "static/css/main.4e906039.chunk.css.map": "/portfolio-react/static/css/main.4e906039.chunk.css.map",
+    "static/js/2.9fb08241.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.9fb08241.chunk.js.LICENSE.txt",
+    "static/media/Scraper.jpg": "/portfolio-react/static/media/Scraper.4d375de2.jpg",
+    "static/media/basil.jpg": "/portfolio-react/static/media/basil.7d6ec81a.jpg",
+    "static/media/burger.jpg": "/portfolio-react/static/media/burger.188f268f.jpg",
+    "static/media/clicky.jpg": "/portfolio-react/static/media/clicky.ca8c1626.jpg",
+    "static/media/coffee.jpg": "/portfolio-react/static/media/coffee.5f519f71.jpg",
+    "static/media/friendfinder.jpg": "/portfolio-react/static/media/friendfinder.00ac61ba.jpg",
+    "static/media/giphy.jpg": "/portfolio-react/static/media/giphy.683815ef.jpg",
+    "static/media/googlebook.jpg": "/portfolio-react/static/media/googlebook.72824fd1.jpg",
+    "static/media/grant.jpg": "/portfolio-react/static/media/grant.bbc2b4c5.jpg",
+    "static/media/hangman.jpg": "/portfolio-react/static/media/hangman.6ebf06f1.jpg",
+    "static/media/laterlist.jpg": "/portfolio-react/static/media/laterlist.63f49710.jpg",
+    "static/media/musicapp.jpg": "/portfolio-react/static/media/musicapp.8b2339c7.jpg",
+    "static/media/nodejslogo.jpg": "/portfolio-react/static/media/nodejslogo.6dcf6999.jpg",
+    "static/media/outcache.jpg": "/portfolio-react/static/media/outcache.30e5b2fe.jpg",
+    "static/media/react.svg": "/portfolio-react/static/media/react.4009eef3.svg",
+    "static/media/rpg.jpg": "/portfolio-react/static/media/rpg.109ad6d1.jpg",
+    "static/media/rps.jpg": "/portfolio-react/static/media/rps.24977911.jpg",
+    "static/media/trivia.jpg": "/portfolio-react/static/media/trivia.10c8c985.jpg",
+    "static/media/utaustin.jpg": "/portfolio-react/static/media/utaustin.338ec861.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f440d9c.js",
+    "static/js/2.9fb08241.chunk.js",
+    "static/css/main.4e906039.chunk.css",
+    "static/js/main.27c1cbb4.chunk.js"
+  ]
+}
