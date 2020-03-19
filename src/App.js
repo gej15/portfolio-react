@@ -1,26 +1,35 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component} from 'react';
+//Componets
+import Header from "./componets/Header/"
+import Info from "./componets/Info/"
+import Parallax from "./componets/Paralax/"
+import Body from "./componets/Body/index"
+import CardBody from "./componets/CardBody/"
+import Footer from "./componets/Footer/"
+//Images
+import coffee from "./images/coffee.jpg"
+import basil from "./images/basil.jpg"
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div>
+        <Header />
+        <Info />
+        <Parallax 
+          pic={coffee}
+          alt="coffee"
+        />
+        <Body />
+        <Parallax
+          pic={basil}
+          alt="basil"
+        />
+        <CardBody />
+        <Footer />
+      </div>
+    )
+  }
 }
 
 export default App;
