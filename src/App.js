@@ -2,7 +2,7 @@ import React, { Component} from 'react';
 //Componets
 import Header from "./componets/Header/"
 import Info from "./componets/Info/"
-import Parallax from "./componets/Paralax/"
+import Parallax from "./componets/Parallax/"
 import Body from "./componets/Body/index"
 import CardBody from "./componets/CardBody/"
 import Footer from "./componets/Footer/"

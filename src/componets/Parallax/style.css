@@ -1,0 +1,19 @@
+.parallax-container {
+    height: 300px;
+}
+
+@media (max-width: 500px)
+
+    {
+        .parallax-container {
+            height: 200px;
+        }
+
+        .parallax img {
+            max-width: 150%; 
+        }
+
+        .padding {
+            padding: 15px
+        }
+    }
