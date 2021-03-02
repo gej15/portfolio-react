@@ -18,7 +18,7 @@ function Body() {
                 <Img class="logo" src={react} alt="React" />
                 <Img class="logo" src={utaustin} alt="UtAustin" />
                 </div>
-                <p>Originally from the suburbs of Chicago I moved to Austin in the summer of 2013. I have been working in the restaurant industry since high school and have a degree in culinary degree. I have held many positions from line cook to general manager but my favorite was bartending on sixth street. Deciding that I needed a career change I’m moving on to computer science. I have been married for 2 years to my lovely wife Lauren. We have 2 dogs, Lando an Australian Shepherd, and Eva a Husky mix. They are our fur babies.</p>
+                <p>Originally from the suburbs of Chicago I moved to Austin in the summer of 2013. I have been working in the restaurant industry since high school and have a degree in culinary. I have held many positions from line cook to general manager but my favorite was bartending on sixth street. Deciding that I needed a career change I’m moving on to computer science.</p>
             </div>
         </div>
     )
